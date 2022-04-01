@@ -1,0 +1,76 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.login {
+    margin: auto;
+    margin-top: 100px;
+    width: 700px;
+    text-align: center;
+}
+
+.login h2 {
+    color: #3c3c3c;
+    font-size: 24px;
+}
+
+.login form input {
+    width: 50%;
+    margin: 20px auto;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0;
+}
+
+.login form button {
+    width: 50%;
+    margin: 20px auto;
+    border: none;
+    background-color: #4caf50;
+    padding: 15px 10px;
+    color: #FFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login form input:focus,
+.login form button:focus {
+    outline: none;
+}
+
+
+/* start regeister */
+
+
+/* start regeister */
+
+.regeister {
+    margin: auto;
+    margin-top: 100px;
+    width: 700px;
+    text-align: center;
+}
+
+.regeister h2 {
+    color: #3c3c3c;
+    font-size: 24px;
+}
+
+.regeister form input {
+    width: 50%;
+    margin: 20px auto;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0;
+}
+
+.regeister form button {
+    width: 50%;
+    margin: 20px auto;
+    border: none;
+    background-color: #4caf50;
+    padding: 15px 10px;
+    color: #FFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
